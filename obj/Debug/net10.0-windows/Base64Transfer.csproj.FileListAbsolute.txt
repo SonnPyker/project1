@@ -1,0 +1,16 @@
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.exe
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.deps.json
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.runtimeconfig.json
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.dll
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.pdb
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.AssemblyInfoInputs.cache
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.AssemblyInfo.cs
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.csproj.CoreCompileInputs.cache
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.dll
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\refint\Base64Transfer.dll
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.pdb
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Transfer.genruntimeconfig.cache
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\ref\Base64Transfer.dll
+D:\Assignments\project1\Base64Transfer\bin\Debug\net10.0-windows\Base64Transfer.runtimeconfig.dev.json
+D:\Assignments\project1\Base64Transfer\obj\Debug\net10.0-windows\Base64Tr.DE0964AE.Up2Date
